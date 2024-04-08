@@ -1,0 +1,13 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+}
+nav {
+    text-align: center;
+}
+li {
+    margin: 15px;
+}
+a {
+    color: blue;
+}
